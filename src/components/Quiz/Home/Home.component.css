@@ -1,0 +1,9 @@
+.inst{
+    padding: 4%;
+}
+.inst>li{
+    margin-top: 2%;
+}
+.home{
+    height: 75vh;
+}

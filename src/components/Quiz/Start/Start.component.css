@@ -1,0 +1,11 @@
+.start{
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.score{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 4px;
+}
